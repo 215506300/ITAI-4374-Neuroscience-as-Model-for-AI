@@ -1,7 +1,9 @@
 # Module 10 — Neuro-Symbolic AI & Architectures
-### ITAI 4374: Neuroscience as a Model for AI
-**Houston City College · AI & Robotics Program · Spring 2026**
-**Instructor:** Professor Patricia McManus
+**Course:** ITAI 4374 – Neuroscience and AI
+**Institution:** Houston City College
+**Instructor:** Prof. Patricia McManus
+**Term:** Spring 2026
+
 
 ---
 
