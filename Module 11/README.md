@@ -7,7 +7,7 @@
 
 ---
 
-## 📁 Folder Contents
+## Folder Contents
 
 | File | Description |
 |------|-------------|
@@ -16,7 +16,7 @@
 
 ---
 
-## 🧠 Module Overview
+## Module Overview
 
 Module 11 shifts focus from brain-only intelligence to the full organism. After ten modules studying neural computation in relative isolation, this module adds the body — and examines how physical embodiment changes everything about how intelligence works and how AI systems are designed.
 
@@ -30,7 +30,7 @@ Affordances, sim-to-real, neuromorphic control, and career frontiers
 
 ---
 
-## 📚 What You Will Learn
+## What You Will Learn
 
 - The theory of **embodied cognition** and why the body is not just input/output hardware
 - How the **cerebellum** operates as the brain's predictive motor controller (the predict-act-correct loop)
@@ -45,7 +45,7 @@ Affordances, sim-to-real, neuromorphic control, and career frontiers
 
 ---
 
-## 🔑 Key Concepts at a Glance
+## Key Concepts at a Glance
 
 | Concept | One-Line Definition |
 |---|---|
@@ -65,7 +65,7 @@ Affordances, sim-to-real, neuromorphic control, and career frontiers
 
 ---
 
-## 🧪 Lab Assignments
+## Lab Assignments
 
 ### Python Lab — Simulated Robotic Reaching (Gymnasium)
 - **Environment:** `Gymnasium Reacher-v4` (2-joint robot arm, CPU-compatible)
@@ -86,7 +86,7 @@ Affordances, sim-to-real, neuromorphic control, and career frontiers
 
 ---
 
-## 🔗 Course Connection
+## Course Connection
 
 | Module | Topic | Connection to Module 11 |
 |--------|-------|--------------------------|
@@ -100,7 +100,7 @@ Affordances, sim-to-real, neuromorphic control, and career frontiers
 
 ---
 
-## 💼 Career Pathways
+## Career Pathways
 
 - **Robotics AI Engineer** — perception, control, and learning systems for physical robots
 - **Human-Robot Interaction (HRI) Specialist** — safe and natural human-robot collaboration
@@ -111,7 +111,7 @@ Affordances, sim-to-real, neuromorphic control, and career frontiers
 
 ---
 
-## 📖 Key References
+## Key References
 
 - Brooks, R. A. (1991). Intelligence without representation. *Artificial Intelligence, 47*(1-3), 139–159.
 - Gibson, J. J. (1979). *The Ecological Approach to Visual Perception.* Houghton Mifflin.
