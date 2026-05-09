@@ -25,7 +25,7 @@ The primary module booklet, divided into two parts:
 
 ---
 
-## Supplemental Readings
+## Files
 
 ### A03_Maira_Tanweer_ITAI4374.pdf
 **Author:** Maira Tanweer Chachar — Houston City College (02/05/2026)
