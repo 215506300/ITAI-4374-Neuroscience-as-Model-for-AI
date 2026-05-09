@@ -1,10 +1,9 @@
 # ITAI 4374 — Term Examinations
 ## Bio-Inspired AI Audit: Microsoft Copilot
-
-**Student:** Maira Tanweer Chachar
-**Course:** ITAI 4374 — Neuroscience as a Model for AI
-**Instructor:** Professor Patricia McManus
-**Institution:** Houston Community College | AI & Robotics Program | Spring 2026
+**Course:** ITAI 4374 – Neuroscience and AI
+**Institution:** Houston City College
+**Instructor:** Prof. Patricia McManus
+**Term:** Spring 2026
 
 ---
 
