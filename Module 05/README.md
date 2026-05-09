@@ -1,7 +1,7 @@
 # ITAI 4374 — Module 05: Sensory Processing & AI Perception
-
-**Course:** Bachelor of Applied Technology in AI & Robotics  
-**Institution:** Houston City College  
+**Course:** ITAI 4374 – Neuroscience and AI
+**Institution:** Houston City College
+**Instructor:** Prof. Patricia McManus
 **Term:** Spring 2026
 
 ---
