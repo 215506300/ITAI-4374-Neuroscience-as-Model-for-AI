@@ -120,15 +120,7 @@ Affordances, sim-to-real, neuromorphic control, and career frontiers
 - Brohan, A., et al. (2023). RT-2: Vision-language-action models transfer web knowledge to robotic control. *arXiv:2307.15818.*
 - Zador, A., et al. (2023). Catalyzing next-generation artificial intelligence through NeuroAI. *Nature Communications, 14,* 1597.
 - NVIDIA Corporation. (2026, March 18). NVIDIA and global robotics leaders take physical AI to the real world. *NVIDIA Newsroom.*
-
----
-
-## ➡️ Next Module
-
-**Module 12 — Consciousness and the Future of Brain-Inspired AI**
-
-Covers: the Hard Problem of consciousness, Integrated Information Theory (IIT), Global Workspace Theory in embodied systems, organoid intelligence, and what the trajectory of neuroscience-inspired AI means for the workforce.
-
+  
 ---
 
 *ITAI 4374: Neuroscience as a Model for AI | Houston City College | AI & Robotics Program | 2026*
