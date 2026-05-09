@@ -1,7 +1,8 @@
 # ITAI 4374 — Module 06: Memory, Learning, and AI Architectures
-
-> *From Remembering to Reasoning*
-> Houston City College · AI & Robotics Program · Professor Patricia McManus
+**Course:** ITAI 4374 – Neuroscience and AI
+**Institution:** Houston City College
+**Instructor:** Prof. Patricia McManus
+**Term:** Spring 2026
 
 ---
 
@@ -21,15 +22,6 @@ By the end of this module, you will be able to:
 4. Compare AI memory architectures (LSTMs, Transformers, MANNs, RAG) to their biological inspirations
 5. Articulate the biological plausibility debate around backpropagation
 6. Evaluate which biological memory principles AI has adopted and which remain open challenges
-
----
-
-## Course Position
-
-```
-Module 04 → Module 05 → Module 06 → Module 07–08
- CONNECT     SENSE      REMEMBER    ATTEND & DECIDE
-```
 
 ---
 
@@ -72,7 +64,7 @@ During **slow-wave sleep**, the hippocampus replays recent experiences to the co
 | Slow-Wave (Deep) | Facts, events, textbook material | Experience replay in DRL |
 | REM (Dreaming) | Motor skills, emotions, creativity | Generative replay, data augmentation |
 
-> ⚠️ Skipping sleep doesn't give you more study time — it erases what you already studied.
+> Skipping sleep doesn't give you more study time — it erases what you already studied.
 
 ### Experience Replay: From Hippocampus to DeepMind
 
@@ -250,16 +242,7 @@ RAG is one of the most in-demand AI engineering skills today.
 
 ---
 
-## Coming Up: Module 07 — Attention & Consciousness in AI
-
-- Biological attention: spatial, feature-based, executive
-- Global Workspace Theory & Integrated Information Theory
-- Attention mechanisms in AI vs. biological attention
-- The hard problem of consciousness — and whether AI needs it
-
----
-
-## References (Selected)
+## References
 
 - Bliss & Lømo (1973) — Discovery of LTP. *Journal of Physiology*
 - McClelland, McNaughton & O'Reilly (1995) — CLS Theory. *Psychological Review*
