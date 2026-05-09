@@ -1,22 +1,13 @@
-# 🧠 Module 02: Foundations & Models of the World
+# Module 02: Foundations & Models of the World
 ### *How the Brain Constructs Reality*
-**ITAI 4374 — Neuroscience as a Model for AI**
-Houston City College · Bachelor of Applied Technology in AI & Robotics
-*Instructor: Patricia McManus*
+**Course:** ITAI 4374 – Neuroscience and AI
+**Institution:** Houston City College
+**Instructor:** Prof. Patricia McManus
+**Term:** Spring 2026
 
 ---
 
-## 📍 Where We Are
-
-| Status | Module |
-|--------|--------|
-| ✅ Completed | Module 01: Why Neuroscience for AI? |
-| ▶️ **Current** | **Module 02: Foundations & Models of the World** |
-| ⏭️ Next | Module 03: Brain Anatomy & Functions |
-
----
-
-## 🎯 Learning Objectives
+## Learning Objectives
 
 By the end of this module, students will be able to:
 
@@ -28,18 +19,7 @@ By the end of this module, students will be able to:
 
 ---
 
-## 📋 Today's Agenda
-
-1. Introduction to Neuroscience & Key Branches
-2. Neural Communication & Learning Mechanisms
-3. Brain Structures & The Thousand Brains Theory
-4. AI Takeaways from Neuroscience
-5. Lab: Cortical Column Simulation (Wolfram / Python)
-6. Key Takeaways & Next Steps
-
----
-
-## 🔬 What is Neuroscience?
+## What is Neuroscience?
 
 > **Textbook:** The scientific study of the brain, spinal cord, and neural networks throughout the body.
 >
@@ -68,7 +48,7 @@ By the end of this module, students will be able to:
 
 ---
 
-## 🤖 Why Study the Brain for AI?
+## Why Study the Brain for AI?
 
 ### The Limitations Gap
 
@@ -89,7 +69,7 @@ By the end of this module, students will be able to:
 
 ---
 
-## 🌍 The Brain's Model of the World
+## The Brain's Model of the World
 
 The brain doesn't passively receive reality like a camera — it actively **constructs** an internal simulation.
 
@@ -105,7 +85,7 @@ The brain doesn't passively receive reality like a camera — it actively **cons
 
 ---
 
-## 📐 Four Theories of World Modeling
+## Four Theories of World Modeling
 
 These theories are **complementary**, not competing — each illuminates a different aspect of brain function.
 
@@ -118,7 +98,7 @@ These theories are **complementary**, not competing — each illuminates a diffe
 
 ---
 
-### 1️⃣ The Thousand Brains Theory *(Jeff Hawkins)*
+### The Thousand Brains Theory *(Jeff Hawkins)*
 
 - The **neocortex** contains ~150,000 cortical columns, each ~0.5mm wide with ~100,000 neurons
 - Each cortical column builds its **own complete model** of the world using **reference frames**
@@ -139,7 +119,7 @@ These theories are **complementary**, not competing — each illuminates a diffe
 
 ---
 
-### 2️⃣ Predictive Coding *(Jakob Hohwy)*
+### Predictive Coding *(Jakob Hohwy)*
 
 - The brain constantly **predicts** incoming sensory information
 - Higher areas send **predictions down**; lower areas send **error signals up**
@@ -154,7 +134,7 @@ These theories are **complementary**, not competing — each illuminates a diffe
 
 ---
 
-### 3️⃣ The Bayesian Brain Hypothesis
+### The Bayesian Brain Hypothesis
 
 The brain represents beliefs as **probabilities** and updates them using **Bayes' theorem**:
 
@@ -172,7 +152,7 @@ Posterior = (Likelihood × Prior) / Evidence
 
 ---
 
-### 4️⃣ Global Workspace Theory *(Bernard Baars)*
+### Global Workspace Theory *(Bernard Baars)*
 
 Using a **theater metaphor:**
 - 🔦 **Spotlight** = Attention (what gets illuminated becomes conscious)
@@ -186,7 +166,7 @@ When information wins the competition for workspace access → **global ignition
 
 ---
 
-## 🚫 Neuromyths to Avoid
+## Neuromyths to Avoid
 
 These are false — and believing them leads to poor AI design decisions:
 
@@ -200,7 +180,7 @@ These are false — and believing them leads to poor AI design decisions:
 
 ---
 
-## 💡 AI Takeaways & Implications
+## AI Takeaways & Implications
 
 | Brain Principle | Current AI Gap | Promising Direction |
 |-----------------|---------------|---------------------|
@@ -214,7 +194,7 @@ These are false — and believing them leads to poor AI design decisions:
 
 ---
 
-## 🧪 Lab: Cortical Column Simulation
+## Lab: Cortical Column Simulation
 
 Simulate the **voting mechanism** from the Thousand Brains Theory.
 
@@ -244,7 +224,7 @@ Simulate the **voting mechanism** from the Thousand Brains Theory.
 
 ---
 
-## 📚 Key Takeaways
+## Key Takeaways
 
 - The brain is **proof** that general intelligence is achievable in a physical system
 - World models are **central to cognition** — the brain constructs reality, it doesn't just receive it
@@ -254,7 +234,7 @@ Simulate the **voting mechanism** from the Thousand Brains Theory.
 
 ---
 
-## 🔗 Resources & Further Reading
+## Resources & Further Reading
 
 | Resource | Type | Link |
 |----------|------|------|
@@ -274,15 +254,3 @@ Simulate the **voting mechanism** from the Thousand Brains Theory.
 - Knill & Pouget (2004). *The Bayesian brain.* Trends in Neurosciences.
 - Dehaene, S. (2014). *Consciousness and the Brain.* Viking.
 
----
-
-## ⏭️ Coming Up: Module 03 — Brain Anatomy & Functions
-
-- Functional brain anatomy: lobes, cortices, limbic system, and the connectome
-- Modeling the neuron as a circuit using **leaky integrate-and-fire** equations
-- Neural coding schemes: **rate coding** vs. **temporal spike-timing** coding
-- Lab: Build and simulate a spiking neuron model from scratch in Wolfram Mathematica
-
----
-
-*ITAI 4374 — Neuroscience as a Model for AI | Houston City College | Patricia McManus*
