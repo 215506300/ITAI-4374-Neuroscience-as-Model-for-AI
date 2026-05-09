@@ -20,19 +20,6 @@ Key themes covered:
 
 ---
 
-## Folder Contents
-
-```
-Module_01/
-├── README.md                               ← You are here
-├── ITAI_4374_Module_01_Booklet.pdf         ← Primary reading (start here)
-├── A01_Maira_Tanweer_Chachar_ITAI4374.docx ← Assignment 1 submission file
-└── Supplemental_Readings/
-    └── README.md                           ← See supplemental folder for details
-```
-
----
-
 ## How to Use This Module
 
 1. **Read the booklet first.** `ITAI_4374_Module_01_Booklet.pdf` is your primary text. It is written as a guided conversation, not a reference document — read it in order.
@@ -73,11 +60,6 @@ By the end of Module 1, you should be able to:
 
 ---
 
-## Coming Up in Module 2
-
-Module 2 focuses on **how intelligence is organized in the brain** — major regions, functional principles, and why "one function per region" is an oversimplification. You do not need to memorize neurotransmitters; the focus is architecture and organization.
-
----
 
 ## Assignment 1
 
@@ -86,5 +68,3 @@ Module 2 focuses on **how intelligence is organized in the brain** — major reg
 - Refer to the course syllabus for grading criteria
 
 ---
-
-*README generated for ITAI 4374, Spring 2026*
