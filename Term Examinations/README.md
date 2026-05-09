@@ -27,7 +27,7 @@ The AI system audited across both submissions is **Microsoft Copilot**, accessed
 
 ---
 
-## 🔗 How the Two Submissions Relate
+## How the Two Submissions Relate
 
 The midterm and final are not separate assignments — the final builds directly on the midterm. The midterm served as a pilot audit covering four modules. The final incorporated those four experiments (revised based on instructor feedback), added two new modules, introduced a Brain vs. AI Scorecard, and added a Brain-Inspired Redesign section with five specific neuroscience-grounded recommendations.
 
