@@ -197,12 +197,4 @@ pip install numpy matplotlib
 
 ---
 
-## ✍️ Author
-
-**Professor Patricia McManus**  
-AI & Robotics Program, Houston City College  
-*Collaborator: Claude (Anthropic)*
-
----
-
 *ITAI 4374 — Spring 2026 | Module 09 of 12*
