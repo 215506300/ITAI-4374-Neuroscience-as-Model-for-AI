@@ -17,49 +17,6 @@ The lab (Part 4) implements a working neuro-symbolic pipeline: a **Python/Tensor
 
 ---
 
-## Folder Structure
-
-```
-module_10_neurosymbolic/
-│
-├── README.md                        ← You are here
-│
-├── data/
-│   └── icons/                       ← PNG icon dataset (3 colors × 3 categories = 9 classes)
-│       ├── red_house/
-│       ├── blue_house/
-│       ├── green_house/
-│       ├── cat/
-│       ├── dog/
-│       ├── fish/
-│       ├── coffee/
-│       ├── tea/
-│       └── juice/
-│
-├── neural/
-│   ├── train_classifier.py          ← Part B: Build and train the CNN icon classifier
-│   ├── predict_clues.py             ← Part D: Run classifier on puzzle clue images
-│   └── model/
-│       └── icon_classifier.keras    ← Saved model weights (generated after training)
-│
-├── symbolic/
-│   └── puzzle_solver.wl             ← Part C: Wolfram Language constraint solver
-│
-├── bridge/
-│   ├── run_pipeline.py              ← Part D: Full Python → Wolfram pipeline
-│   └── clue_labels.json             ← Bridge file: neural outputs → symbolic inputs
-│
-├── outputs/
-│   ├── solution_table.txt           ← Puzzle solution output
-│   └── reasoning_trace.txt          ← Step-by-step symbolic reasoning log
-│
-└── docs/
-    ├── ITAI_4374_Module_10_Booklet.pdf
-    └── ITAI_4374_Module_10_Slides.pdf
-```
-
----
-
 ## The Puzzle
 
 A simplified three-house logic puzzle (Zebra/Einstein style):
@@ -265,18 +222,6 @@ By completing this module and lab, you will be able to:
 | PyTorch Docs | https://pytorch.org/docs/ |
 | TensorFlow / Keras Docs | https://www.tensorflow.org/api_docs |
 | LangChain Docs | https://python.langchain.com/docs/ |
-
----
-
-## Grading Checklist
-
-- [ ] CNN trains successfully and achieves > 90% accuracy on icon test set
-- [ ] `clue_labels.json` correctly reflects all 5 clue icons
-- [ ] Wolfram solver produces the correct solution table
-- [ ] Full pipeline runs end-to-end via `run_pipeline.py`
-- [ ] `reasoning_trace.txt` shows step-by-step constraint elimination
-- [ ] Lab report answers all 5 Part E reflection questions
-- [ ] Extension challenge attempted (required for full credit)
 
 ---
 
