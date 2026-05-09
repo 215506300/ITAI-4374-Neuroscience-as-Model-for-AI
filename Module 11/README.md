@@ -1,5 +1,9 @@
 # ITAI 4374 — Neuroscience as a Model for AI
 ## Module 11: Embodied Cognition and Robotics
+**Course:** ITAI 4374 – Neuroscience and AI
+**Institution:** Houston City College
+**Instructor:** Prof. Patricia McManus
+**Term:** Spring 2026
 
 > *Can intelligence exist without a body?*
 
