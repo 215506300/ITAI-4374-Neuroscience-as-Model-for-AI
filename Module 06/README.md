@@ -7,7 +7,7 @@
 
 ---
 
-## 📁 Folder Contents
+## Folder Contents
 
 | File | Description |
 |------|-------------|
@@ -17,7 +17,7 @@
 
 ---
 
-## 🧭 Where This Module Fits
+## Where This Module Fits
 
 ```
 Module 04 (Neurons & Spiking)
@@ -33,7 +33,7 @@ Module 08 (Decision Making)
 
 ---
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 By the end of this module you will be able to:
 
@@ -46,7 +46,7 @@ By the end of this module you will be able to:
 
 ---
 
-## 🧠 Part 1 — How the Brain Remembers
+## Part 1 — How the Brain Remembers
 
 ### The Four Memory Systems
 
@@ -92,7 +92,7 @@ CORTEX (slow, vast, permanent)
 - **Slow-Wave Sleep** → Hippocampal replay → consolidates facts & events → analogous to **experience replay in DRL**
 - **REM Sleep** → Motor skills, emotions, creativity → analogous to **generative replay / data augmentation**
 
-> ⚠️ Skipping sleep doesn't give you more study time — it erases what you already studied.
+> Skipping sleep doesn't give you more study time — it erases what you already studied.
 
 ---
 
@@ -110,7 +110,7 @@ CORTEX (slow, vast, permanent)
 
 ---
 
-## ⚗️ Part 2 — How the Brain Learns
+## Part 2 — How the Brain Learns
 
 ### LTP & LTD — The Volume Knob
 
@@ -134,7 +134,7 @@ CORTEX (slow, vast, permanent)
 
 ---
 
-## 🤖 Part 3 — How AI Remembers
+## Part 3 — How AI Remembers
 
 ### AI Memory Architecture Comparison
 
@@ -169,7 +169,7 @@ Attention(Q, K, V) = softmax(Q · Kᵀ / √d_k) · V
 
 ---
 
-## 🔬 Part 4 — The Biological Plausibility Debate
+## Part 4 — The Biological Plausibility Debate
 
 ### Why Backprop Is Biologically Implausible
 
@@ -192,7 +192,7 @@ Attention(Q, K, V) = softmax(Q · Kᵀ / √d_k) · V
 
 ---
 
-## 📊 What Biology Has (and AI Mostly Lacks)
+## What Biology Has (and AI Mostly Lacks)
 
 | Biological Principle | Status in AI |
 |---------------------|-------------|
@@ -208,13 +208,13 @@ Attention(Q, K, V) = softmax(Q · Kᵀ / √d_k) · V
 
 ---
 
-## 📚 Key Terms
+## Key Terms
 
 `LTP` · `LTD` · `Episodic Memory` · `Semantic Memory` · `Procedural Memory` · `Working Memory` · `Hippocampus` · `Trisynaptic Circuit` · `Pattern Separation` · `Pattern Completion` · `Memory Consolidation` · `Slow-Wave Sleep` · `REM Sleep` · `Experience Replay` · `Complementary Learning Systems (CLS)` · `Catastrophic Forgetting` · `LSTM` · `Transformer` · `Self-Attention` · `RAG` · `Neural Turing Machine` · `Hebbian Learning` · `STDP` · `Backpropagation` · `Predictive Coding` · `Feedback Alignment` · `Dopamine` · `Acetylcholine` · `Norepinephrine` · `Place Cells` · `Grid Cells`
 
 ---
 
-## 🔗 Key References
+## Key References
 
 - Bliss & Lømo (1973) — Discovery of LTP
 - McClelland, McNaughton & O'Reilly (1995) — Complementary Learning Systems
@@ -226,8 +226,6 @@ Attention(Q, K, V) = softmax(Q · Kᵀ / √d_k) · V
 - Hinton (2022) — Forward-Forward Algorithm
 
 ---
-
-## ➡️ Next: Module 07 — Attention & Consciousness in AI
 
 > *How does the brain DECIDE what to focus on? Does AI need consciousness to be truly intelligent?*
 
