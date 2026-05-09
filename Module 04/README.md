@@ -1,5 +1,8 @@
 # ITAI 4374 — Module 04: Neurons & Spiking Neural Networks
-**Houston City College · AI & Robotics Program · Spring 2026**
+**Course:** ITAI 4374 – Neuroscience and AI
+**Institution:** Houston City College
+**Instructor:** Prof. Patricia McManus
+**Term:** Spring 2026
 
 ---
 
