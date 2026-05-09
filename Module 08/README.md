@@ -1,6 +1,8 @@
 # Module 08 — Decision Making: From Brain to Autonomous Systems
-**ITAI 4374: Neuroscience as a Model for AI**
-Houston City College · AI & Robotics Program · Patricia McManus · Spring 2026
+**Course:** ITAI 4374 – Neuroscience and AI
+**Institution:** Houston City College
+**Instructor:** Prof. Patricia McManus
+**Term:** Spring 2026
 
 ---
 
