@@ -8,26 +8,7 @@
 
 ---
 
-## 📁 Folder Structure
-
-```
-term examinations/
-│
-├── README_TermExaminations.md          ← This file
-├── ITAI_4374_Midterm_Final_Project_Instructions.pdf
-│
-├── mid examination/
-│   ├── README_MidExamination.md
-│   └── MD_Solo_MairaTanweer_Chachar_ITAI4374.docx
-│
-└── final examination/
-    ├── README_FinalExamination.md
-    └── FN_Solo_Maira_Tanweer_Chachar_ITAI4374.docx
-```
-
----
-
-## 📋 Project Overview
+## Project Overview
 
 This folder contains all deliverables for the ITAI 4374 Bio-Inspired AI Audit — a two-part project spanning the full semester. The assignment required selecting a real, accessible AI product and running a series of hands-on experiments to evaluate how well the system reflects established principles of human neuroscience.
 
@@ -35,7 +16,7 @@ The AI system audited across both submissions is **Microsoft Copilot**, accessed
 
 ---
 
-## 📄 Project Instructions
+## Project Instructions
 
 `ITAI_4374_Midterm_Final_Project_Instructions.pdf` contains the full assignment brief for both the midterm and final, including experiment guidelines, report format requirements, rubrics, and submission conventions.
 
@@ -61,7 +42,7 @@ The midterm and final are not separate assignments — the final builds directly
 
 ---
 
-## 🧠 Audited System at a Glance
+## Audited System at a Glance
 
 **Microsoft Copilot** — a conversational AI assistant built on large language model (LLM) architecture, accessed via browser. The overall finding across both submissions: Copilot is a linguistically sophisticated system whose behavioral outputs frequently resemble human cognition at a surface level, but whose underlying mechanisms diverge substantially from biological neural processes in every domain tested.
 
