@@ -8,15 +8,6 @@
 
 ---
 
-## 📁 Folder Contents
-
-| File | Description |
-|------|-------------|
-| `FN_Solo_Maira_Tanweer_Chachar_ITAI4374.docx` | Full final audit report |
-| *(Video demo)* | Screen-capture video demonstrating key experiments — submitted separately to course LMS |
-
----
-
 ## Audited System
 
 **Microsoft Copilot** — the same system audited in the midterm, accessed through a browser-based interface across multiple sessions throughout the semester. The final expanded and deepened the midterm pilot into a comprehensive six-module evaluation.
