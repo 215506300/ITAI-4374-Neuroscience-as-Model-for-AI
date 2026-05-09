@@ -1,9 +1,8 @@
 # Module 07 — Attention and Consciousness in AI
-
-**Course:** ITAI 4374: Neuroscience as a Model for AI  
-**Institution:** Houston City College · AI & Robotics Program  
-**Semester:** Spring 2026  
-**Instructor:** Professor Patricia McManus
+**Course:** ITAI 4374 – Neuroscience and AI
+**Institution:** Houston City College
+**Instructor:** Prof. Patricia McManus
+**Term:** Spring 2026
 
 ---
 
