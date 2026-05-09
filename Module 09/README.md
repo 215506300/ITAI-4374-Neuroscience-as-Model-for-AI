@@ -7,27 +7,13 @@
 
 ---
 
-## 📋 Overview
+## Overview
 
 This module explores one of the most powerful ideas shared by neuroscience and artificial intelligence: **world models**. Rather than simply reacting to events, intelligent systems — biological and artificial — build internal simulations of the world and use them to predict, plan, and pursue goals. Module 09 bridges the brain's predictive machinery to modern AI systems like DreamerV3, MuZero, and AlphaZero.
 
 ---
 
-## 🗂️ Folder Structure
-
-```
-module-09/
-├── README.md                         # This file
-├── ITAI_4374_Module_09_World_Models.pdf  # Full module booklet
-├── lab/
-│   └── active_inference_maze.ipynb   # Lab 09: Active Inference Maze Navigator
-└── assets/
-    └── active_inference_maze.png     # Output visualization from Lab 09
-```
-
----
-
-## 🎯 Learning Objectives
+## Learning Objectives
 
 By the end of this module, students will be able to:
 
@@ -41,7 +27,7 @@ By the end of this module, students will be able to:
 
 ---
 
-## 📚 Module Outline
+## Module Outline
 
 ### Part 1 — How the Brain Simulates the Future
 
@@ -98,7 +84,7 @@ By the end of this module, students will be able to:
 
 ---
 
-## 🧪 Lab 09: Active Inference Maze Navigator
+## Lab 09: Active Inference Maze Navigator
 
 Students implement a simple active inference agent that navigates a 5×5 grid maze by minimizing prediction error.
 
@@ -134,7 +120,7 @@ pip install numpy matplotlib
 
 ---
 
-## 🔑 Key Concepts
+## Key Concepts
 
 | Concept | Plain-Language Definition |
 |---|---|
@@ -158,7 +144,7 @@ pip install numpy matplotlib
 
 ---
 
-## 🔗 Key Resources
+## Key Resources
 
 | Resource | Link |
 |---|---|
@@ -172,7 +158,7 @@ pip install numpy matplotlib
 
 ---
 
-## 🧠 → 🤖 Connection to Prior Modules
+## Connection to Prior Modules
 
 | Module | Connection |
 |---|---|
@@ -185,7 +171,7 @@ pip install numpy matplotlib
 
 ---
 
-## 💼 Career Connections
+## Career Connections
 
 | Role | Employer Examples | Tools |
 |---|---|---|
