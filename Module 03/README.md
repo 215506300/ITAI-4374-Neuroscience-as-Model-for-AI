@@ -1,4 +1,8 @@
 # Module 3 — Brain Anatomy & Computational Neuroscience
+**Course:** ITAI 4374 – Neuroscience and AI
+**Institution:** Houston City College
+**Instructor:** Prof. Patricia McManus
+**Term:** Spring 2026
 
 ---
 
