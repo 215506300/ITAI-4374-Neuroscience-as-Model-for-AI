@@ -17,13 +17,13 @@
 
 ---
 
-## 🧠 Audited System
+## Audited System
 
 **Microsoft Copilot** — the same system audited in the midterm, accessed through a browser-based interface across multiple sessions throughout the semester. The final expanded and deepened the midterm pilot into a comprehensive six-module evaluation.
 
 ---
 
-## 📐 Report Structure
+## Report Structure
 
 The final report is organized into six sections, all written in professional prose:
 
@@ -78,7 +78,7 @@ Twelve peer-reviewed sources cited throughout, including Friston (2010), Rangel 
 
 ---
 
-## 📎 Evidence Appendix
+## Evidence Appendix
 
 The appendix contains nineteen labeled figures (A1–A19) corresponding to screenshots of all Copilot experiment responses across six modules.
 
@@ -93,7 +93,7 @@ The appendix contains nineteen labeled figures (A1–A19) corresponding to scree
 
 ---
 
-## 🔗 Relationship to Midterm
+## Relationship to Midterm
 
 This final builds directly on `MD_Solo_MairaTanweer_Chachar_ITAI4374.docx` (see `mid examination` folder). The four midterm experiments (M02, M04, M06, M07) were revised based on instructor feedback and incorporated here. Two new modules (M08, M09) were added to reach the six-module coverage of the final. The Brain vs. AI Scorecard and Brain-Inspired Redesign sections are new additions exclusive to this submission.
 
